@@ -4,7 +4,7 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "youtube"
+        "value": "revancify_red"
       },
       {
         "key": "ChangeSplashIcon",
@@ -21,7 +21,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "YouTube"
+        "value": "YouTube RVX"
       }
     ]
   },
@@ -95,11 +95,11 @@
     "options": [
       {
         "key": "DarkThemeBackgroundColor",
-        "value": "@android:color/black"
+        "value": "#51284F"
       },
       {
         "key": "LightThemeBackgroundColor",
-        "value": "@android:color/white"
+        "value": "#F2D4D7"
       }
     ]
   },

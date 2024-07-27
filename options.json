@@ -65,6 +65,10 @@
       {
         "key": "BottomMargin",
         "value": "0.0dip"
+      },
+      {
+        "key": "ChangeTopButtons",
+        "value": false
       }
     ]
   },

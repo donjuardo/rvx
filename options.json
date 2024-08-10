@@ -99,11 +99,11 @@
     "options": [
       {
         "key": "DarkThemeBackgroundColor",
-        "value": "#51284F"
+        "value": "#46394B"
       },
       {
         "key": "LightThemeBackgroundColor",
-        "value": "#F2D4D7"
+        "value": "#F8E0E7"
       }
     ]
   },

@@ -112,7 +112,7 @@
     "options": [
       {
         "key": "RVXSettingsMenuIcon",
-        "value": "revanced"
+        "value": "extension"
       }
     ]
   }

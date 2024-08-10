@@ -24,6 +24,7 @@
 -i "Hide layout components"
 -i "Hide player buttons"
 -i "Hide player flyout menu"
+-i "Hook download actions"
 -i "MaterialYou"
 -i "Miniplayer"
 -i "Navigation bar components"

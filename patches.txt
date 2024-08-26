@@ -1,5 +1,5 @@
--i "Alternative thumbnails"
 -i "Ambient mode control"
+-i "Change share sheet"
 -i "Change start page"
 -i "Custom branding icon for YouTube"
 -i "Custom branding name for YouTube"

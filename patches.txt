@@ -39,7 +39,7 @@
 -i "Shorts components"
 -i "SponsorBlock"
 -i "Spoof app version"
--i "Spoof client"
+-i "Spoof streaming data"
 -i "Swipe controls"
 -i "Theme"
 -i "Toolbar components"
